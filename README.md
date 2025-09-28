@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mim
 - 💼 **Contador especializado** em soluções digitais e automação contábil
-- 🌐 **Site**: [pedrotiagocontabilidade.com.br](https://pedro-tiago-contabilidade-ky4fq41nh-pedro-tiagos-projects.vercel.app)
+- 🌐 **Site**: [pedrotiagocontabilidade.com.br](https://pedrotiagocontabilidade.com.br)
 - 🔧 **Especialidades**: Calima Web, Makrosystem, Automação de Processos
 - 💻 **Tecnologias**: JavaScript, Python, PowerShell, React, Node.js
 
@@ -31,9 +31,9 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 #### Cloud & DevOps
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### 📈 GitHub Stats
 
@@ -43,18 +43,17 @@
 
 ### 🎯 Projetos em Destaque
 
-- 🏢 **[Pedro Tiago Contabilidade](https://github.com/pedrotiagofaria25-dev/pedro-tiago-contabilidade)** - Site oficial com soluções contábeis inteligentes
+- 🏢 **[Pedro Tiago Contabilidade](https://github.com/pedrotiagofaria25-dev/pedro-tiago-site-oficial)** - Site oficial com soluções contábeis inteligentes
 - 📊 **Scripts de Automação** - Automação de processos contábeis e fiscais
 - 🔗 **Integrações** - APIs para Calima Web e Makrosystem
 
-### 🌐 Sites Online
+### 🌐 Site Oficial
 
-- **🏢 Produção**: [Vercel](https://pedro-tiago-contabilidade-gjipty1zj-pedro-tiagos-projects.vercel.app)
-- **🧪 Staging**: [Netlify](https://pedro-tiago-contabilidade.netlify.app)
+**🏢 Produção**: [pedrotiagocontabilidade.com.br](https://pedrotiagocontabilidade.com.br)
 
 ### 📫 Entre em Contato
 
-[![Website](https://img.shields.io/badge/-Website-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://pedro-tiago-contabilidade-gjipty1zj-pedro-tiagos-projects.vercel.app)
+[![Website](https://img.shields.io/badge/-Website-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://pedrotiagocontabilidade.com.br)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrotiago@pedrotiagocontabilidade.com.br)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/pedrotiagofaria25-dev)
 
@@ -78,10 +77,11 @@
 ### 🏆 Conquistas
 
 - 📜 **CRC GO-027770/O** - Contador registrado
-- 🌐 **Sites Profissionais** - 2 sites online (Vercel + Netlify)
+- 🌐 **Site Profissional** - Deploy automatizado com GitHub Actions
 - ⚡ **Performance** - Lighthouse 95+ garantido
 - 🔒 **Segurança** - Headers e SSL implementados
-- 🚀 **Deploy Automático** - CI/CD configurado
+- 🚀 **CI/CD** - Pipeline de deploy totalmente automatizado
+- 🛡️ **Dependabot** - Monitoramento automático de vulnerabilidades
 
 ---
 
